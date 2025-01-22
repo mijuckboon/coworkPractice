@@ -19,7 +19,8 @@ System.out.println("반갑습니다.");
 * 수학교육과 이학사
 * 수학과 이학석사
 ```
-1. LaTeX
+
+4. LaTeX
    
 저의 나이입니다.
 ```math
