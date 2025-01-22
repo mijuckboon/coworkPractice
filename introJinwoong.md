@@ -19,15 +19,7 @@ System.out.println("반갑습니다.");
 * 수학교육과 이학사
 * 수학과 이학석사
 ```
-
-```java
-public class main{
-    public static void main(String args[]) {
-System.out.println("반갑습니다.");
-    }
-}
-```
-4. LaTeX
+1. LaTeX
    
 저의 나이입니다.
 ```math
